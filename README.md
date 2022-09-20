@@ -37,7 +37,7 @@ Here is the list of files and corresponding exercises.
 │           └── main.yml
 └── template.yml            ### 3. Exercise: Infrastructure Creation
 └── .circleci
-    └── config.yml          ### CircleCI exercises
+    └── config.yml          ### CircleCI exercises a72 8000  iphone 11000
 ```
 
 > **Note**: When you attempt any CircleCI exercise, you should comment out the Jobs and Workflows from other exercises. This will ensure that you do not end up creating unnecessary EC2, S3, CloudFront resources in your AWS console. 
